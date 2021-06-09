@@ -1,3 +1,1 @@
-export default function Home() {
-  return <div>Halo</div>
-}
+export { default } from '~/containers/homepage'
